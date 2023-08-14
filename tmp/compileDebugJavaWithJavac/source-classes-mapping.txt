@@ -1,0 +1,2 @@
+com/example/memesshareapp/BuildConfig.java
+ com.example.memesshareapp.BuildConfig
